@@ -63,6 +63,9 @@ dependencies = [
  "cssparser 0.2.0 (git+https://github.com/servo/rust-cssparser)",
  "geom 0.1.0 (git+https://github.com/servo/rust-geom)",
  "gfx 0.0.1",
+ "gleam 0.0.1 (git+https://github.com/servo/gleam)",
+ "glutin 0.0.7 (git+https://github.com/servo/glutin?branch=servo)",
+ "msg 0.0.1",
  "util 0.0.1",
 ]
 
@@ -855,6 +858,7 @@ dependencies = [
  "bitflags 0.1.1 (registry+https://github.com/rust-lang/crates.io-index)",
  "compositing 0.0.1",
  "devtools 0.0.1",
+ "devtools_traits 0.0.1",
  "gfx 0.0.1",
  "glutin_app 0.0.1",
  "layout 0.0.1",
